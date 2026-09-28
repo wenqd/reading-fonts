@@ -20,3 +20,15 @@
 ## 导入方法
 
 开源阅读 → 我的 → 界面 → 字体 → 自定义字体，选中下载的字体文件即可。
+
+## 国内加速下载（推荐手机使用）
+
+把上面任意 GitHub 直链前面加上加速前缀即可，实测可用：
+
+- `https://gh.ddlc.top/` （实测最快，约 1.2 MB/s）
+- `https://ghfast.top/` （备用）
+
+示例（全部打包）：
+```
+https://gh.ddlc.top/https://github.com/wenqd/reading-fonts/releases/download/v1.0/All-In-One.zip
+```
